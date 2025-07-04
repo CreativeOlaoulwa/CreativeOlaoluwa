@@ -21,8 +21,6 @@ I'm a passionate Front End Development and am learning at ALX africa with experi
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Product Design](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Sketching](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
-![Copywriting]
-![Virtual Assistant]
 
 
 
