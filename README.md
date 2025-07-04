@@ -2,20 +2,24 @@
 <h1 align="center">👋 Hello, I'm Olaoluwa</h1>
 <p align="center">
   🌍 Learner at <strong>ALX Frontend Development Program</strong> <br />
-  💡 Passionate about building websites that solve real problems <br />
-  🧠 Learning JavaScript, HTML, CSS, and React <br />
-  🎯 Focused on EdTech, FinTech, and self-growth <br />
+  💡 Passionate about solving real-world problems through tech <br />
+  🎨 Focused on UI/UX, Dev & Design <br />
+  🚀 Building towards launching a creative agency for startups <br />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-<p>
-  I'm currently diving deep into Front-End Development through the ALX program.<br/>
-  My journey into software engineering started because <strong>I believe technology can create real impact, especially in underserved communities</strong>.<br/>
-  I'm driven by the mission to build cool, user-friendly websites and eventually start a digital agency that serves African startups.
-</p>
+Hi, I'm Olaoluwa — a Front-End Developer and UI/UX enthusiast currently learning through the ALX Software Engineering program.
+
+I got into tech because I love solving real-world problems with creative and functional solutions. I’m especially passionate about user interface and experience design — building digital products that are not only beautiful but intuitive and accessible.
+
+My long-term goal is to build a full-service **development and design agency** that empowers startups—especially in Africa—to bring their ideas to life. I believe that **tech should be a voice for the voiceless**, and I’m here to help give startups the visibility they deserve through great design and clean, scalable code.
+
+When I’m not coding, I enjoy content creation and exploring how storytelling and design can work together to create better user experiences.
+
+**Build to empower** — that’s the mission that drives everything I do.
 
 ---
 
@@ -50,7 +54,7 @@
 - Writing accessible and semantic HTML  
 - Animating interfaces with CSS and JavaScript  
 - Using Git and GitHub for project collaboration  
-- Building real-world projects with a focus on EdTech and FinTech
+- Building real-world projects in EdTech and FinTech
 
 ---
 
@@ -76,10 +80,10 @@
 
 ## 🧠 Fun Facts
 
-- 🔭 I plan to run a Front-End agency one day.
-- 🌍 I'm inspired by how tech can transform education in Africa.
-- 💬 I love discussing UI design trends, user behavior, and web accessibility.
+- 🎯 I plan to launch a design + dev agency focused on startups
+- ✨ I'm inspired by how UI/UX shapes how people feel about technology
+- 🎥 I enjoy content creation and storytelling through design
 
 ---
 
-<h3 align="center">✨ Let’s Connect and Grow Together!</h3>
+<h3 align="center">✨ Let’s Build to Empower ✨</h3>
